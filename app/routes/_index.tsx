@@ -21,7 +21,7 @@ export default function Index() {
             href="https://developers.cloudflare.com/pages/framework-guides/deploy-a-remix-site/"
             rel="noreferrer"
           >
-            Cloudflare Pages Docs - Remix guide
+            Cloudflare Pages Docs - Remix guide, v3
           </a>
         </li>
         <li>
